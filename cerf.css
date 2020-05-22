@@ -1,0 +1,21 @@
+img{
+    max-width: 100%;
+}
+.img{
+    max-width: 25%;
+}
+@media (max-width: 500px) {
+    #gallery #product {
+        max-width: 50%
+    }
+
+    #gallery {
+        flex-direction: column;
+    }
+}
+p{
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+

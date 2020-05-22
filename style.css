@@ -176,7 +176,7 @@ a:hover { color: #222; }
 
 a img { border: none; }
 
-img { max-width: 100%; }
+img { max-width: 300%; }
 
 iframe { border: none !important; }
 
@@ -482,7 +482,9 @@ span.middot {
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
-
+.order{
+	font-size: large;
+}
 .imagescalein:hover img {
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
@@ -10007,7 +10009,7 @@ body:not(.device-touch) .team-overlay {
 	padding: 25px 0;
 	color: #333;
 	font-weight: 300;
-	font-size: 64px;
+	font-size: 45px;
 	line-height: 1;
 }
 
@@ -10026,7 +10028,7 @@ body:not(.device-touch) .team-overlay {
 	display: inline-block;
 	vertical-align: top;
 	margin: 7px 3px 0 0;
-	font-size: 28px;
+	font-size: 25px;
 	font-weight: normal;
 }
 
@@ -10170,7 +10172,7 @@ body:not(.device-touch) .team-overlay {
 .pricing-box.pricing-extended .pricing-action-area .pricing-price,
 .pricing-box.pricing-extended .pricing-action-area .pricing-action { padding: 0; }
 
-.pricing-box.pricing-extended .pricing-action-area .pricing-price { padding-bottom: 20px; }
+.pricing-box.pricing-extended .pricing-action-area .pricing-price { padding-bottom: 10px; }
 
 .pricing-box.pricing-extended .pricing-action-area .pricing-price:after { display: none; }
 
@@ -10179,7 +10181,7 @@ body:not(.device-touch) .team-overlay {
 	margin: 10px 0 0 0;
 	font-weight: 300;
 	text-transform: uppercase;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 .pricing-box.pricing-extended .pricing-meta {
@@ -10188,7 +10190,7 @@ body:not(.device-touch) .team-overlay {
 	font-size: 14px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	padding-bottom: 10px;
+	padding-bottom: 2px;
 }
 
 .table-comparison,
@@ -12134,7 +12136,9 @@ button.toast-close-button {
 
 .footer-logo {
 	display: block;
-	margin-bottom: 30px;
+	width: 400px;
+	height: 300px;
+	padding-right: 150px;
 }
 
 

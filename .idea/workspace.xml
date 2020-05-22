@@ -12,6 +12,14 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -22,9 +30,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mogo" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -54,7 +64,17 @@
       <workItem from="1589034883321" duration="37000" />
       <workItem from="1589931025738" duration="1789000" />
       <workItem from="1589932896835" duration="1789000" />
-      <workItem from="1589934719234" duration="245000" />
+      <workItem from="1589934719234" duration="908000" />
+      <workItem from="1589994459507" duration="858000" />
+      <workItem from="1589995344090" duration="1783000" />
+      <workItem from="1589997159410" duration="1790000" />
+      <workItem from="1589998978244" duration="1784000" />
+      <workItem from="1590000791912" duration="1785000" />
+      <workItem from="1590002605585" duration="1794000" />
+      <workItem from="1590004448130" duration="1784000" />
+      <workItem from="1590006255326" duration="1795000" />
+      <workItem from="1590008077938" duration="1787000" />
+      <workItem from="1590074002784" duration="224000" />
     </task>
     <servers />
   </component>
@@ -70,13 +90,17 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1589034919438" />
-    <state x="389" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1589934721233">
+    <state x="389" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1590074002218">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="389" y="252" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1589934721233" />
-    <state x="295" y="106" width="672" height="678" key="search.everywhere.popup" timestamp="1589931143636">
+    <state x="389" y="252" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1590074002218" />
+    <state x="339" y="180" key="run.anything.popup" timestamp="1589997885103">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="295" y="106" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1589931143636" />
+    <state x="339" y="180" key="run.anything.popup/0.30.1366.738@0.30.1366.738" timestamp="1589997885103" />
+    <state x="295" y="106" width="672" height="678" key="search.everywhere.popup" timestamp="1590000685650">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="295" y="106" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1590000685650" />
   </component>
 </project>
